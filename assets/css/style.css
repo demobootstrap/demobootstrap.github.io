@@ -66,6 +66,32 @@ header img {
     box-shadow: none;
 }
 
+.pad-top {
+    padding-top:50px;
+}
+
+.mob-h-sty {
+    text-align:center; 
+    width:1050px;
+}
+
+.tab-h-sty {
+    text-align:left;
+    padding-left:20px;
+    width:650px;
+}
+
+.des-h-sty {
+    text-align:left;
+}
+
+.tab-p-sty{
+    text-align:left;
+    padding-left:20px;
+    width:530px;
+    font-size:15px;
+}
+
 .col-lg-4 >.yellow {
     border-radius: 25px;
 }
