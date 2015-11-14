@@ -67,11 +67,11 @@ header img {
 }
 
 .col-lg-4 >.yellow {
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .col-lg-4 >.purple {
-    border-radius: 20px;
+    border-radius: 25px;
 }
 
 .section-heading {
@@ -98,7 +98,7 @@ ul {
 }
 
 .footer-links-heading {
-    padding-left: 35px;
+    padding-left: 40px;
 }
 
 .pad-left {
